@@ -1,4 +1,4 @@
-# <img src="/logo.png" alt="aurora.code" width="280"/>
+# <img src="https://raw.githubusercontent.com/auroracode-id/.github/main/profile/logo.png" alt="aurora.code" width="280"/>
 
 Aurora.code is a student-led digital studio based in Tulungagung, East Java, Indonesia.  
 We focus on building modern web systems with strong emphasis on clean design, performance, and security.
