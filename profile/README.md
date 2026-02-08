@@ -1,15 +1,24 @@
-# <img src="https://raw.githubusercontent.com/auroracode-id/.github/main/profile/logo.png" alt="aurora.code" width="280"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/auroracode-id/.github/main/profile/logo.png" alt="aurora.code" width="480"/>
+</p>
 
-Aurora.code is a student-led digital studio based in Tulungagung, East Java, Indonesia.  
+<h3 align="center">
+aurora.code is a student-led digital studio based in Tulungagung, East Java, Indonesia.
+</h3>
+
+<p align="center">
 We focus on building modern web systems with strong emphasis on clean design, performance, and security.
+</p>
 
-Website: https://aurora.ros3mary.my.id
+<p align="center">
+Website: <a href="https://aurora.ros3mary.my.id">aurora.ros3mary.my.id</a>
+</p>
 
 ---
 
 ## About
 
-Aurora.code was formed by software engineering students from SMKN 1 Boyolangu (RPL).  
+aurora.code was formed by software engineering students from SMKN 1 Boyolangu (RPL).  
 We collaborate as a small team with clearly defined roles:
 
 - UI/UX Designer  
