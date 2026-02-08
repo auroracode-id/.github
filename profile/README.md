@@ -14,8 +14,6 @@ We focus on building modern web systems with strong emphasis on clean design, pe
 Website: <a href="https://aurora.ros3mary.my.id">aurora.ros3mary.my.id</a>
 </p>
 
----
-
 ## About
 
 aurora.code was formed by software engineering students from SMKN 1 Boyolangu (RPL).  
@@ -28,7 +26,6 @@ We collaborate as a small team with clearly defined roles:
 
 Our goal is not just to build websites, but to design digital systems that solve real problems.
 
----
 
 ## What We Build
 
@@ -41,7 +38,6 @@ We mainly work on:
 - CMS & dashboards  
 - Basic security hardening
 
----
 
 ## How We Work
 
@@ -55,7 +51,6 @@ We apply a structured development workflow:
 
 This ensures every project is maintainable, scalable, and production-ready.
 
----
 
 ## Philosophy
 
@@ -67,7 +62,6 @@ Code should be:
 - Secure  
 - Purpose-driven  
 
----
 
 ## Contact
 
@@ -75,6 +69,5 @@ Website: https://aurora.ros3mary.my.id
 Email: aurora.code@zohomail.com  
 Location: Tulungagung, East Java, Indonesia
 
----
 
 © 2026 aurora.code
