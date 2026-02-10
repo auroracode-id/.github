@@ -11,7 +11,7 @@ We focus on building modern web systems with strong emphasis on clean design, pe
 </p>
 
 <p align="center">
-Website: <a href="https://aurora.ros3mary.my.id">aurora.ros3mary.my.id</a>
+Website: <a href="https://auroracode.tech">auroracode.tech</a>
 </p>
 
 ## About
@@ -65,7 +65,7 @@ Code should be:
 
 ## Contact
 
-Website: https://aurora.ros3mary.my.id  
+Website: https://auroracode.tech
 Email: aurora.code@zohomail.com  
 Location: Tulungagung, East Java, Indonesia
 
